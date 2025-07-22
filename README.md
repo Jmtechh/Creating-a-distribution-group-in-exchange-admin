@@ -6,7 +6,7 @@ The aim of this lab is to create a distribution group that allows multiple users
 
 <h2>Utilities Used</h2>
 
-- <b>Windows </b> 
+- <b>Microsoft admin centre </b> 
 
 <h2>M365 Exchange Admin </h2>
 
