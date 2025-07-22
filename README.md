@@ -25,7 +25,7 @@ The first step I took was to click 'Add Distribution List' within the Exchange A
 
 <img src="https://i.imgur.com/wrZsGBT.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
-I have now completed the distribution group.
+I have now completed the creation of the distribution group.
  
 <img src="https://i.imgur.com/5DKJMYu.png" style="width:80%;" alt="Disk Sanitization Steps"/>
 
